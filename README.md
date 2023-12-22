@@ -7,7 +7,7 @@ The proposed Hospital Management System aims to overcome the limitations of the 
 
 ## AIM AND OBJECTIVES
 In response to these challenges, this project aims to develop and implement a comprehensive Hospital Management System that addresses the specific needs of Sri Lankan government hospitals. The primary objectives of the HMS are to:
-* **Streamline patient registration and tracking:** Implement an efficient patient registration system that assigns unique identification numbers and QR codes, facilitating seamless patient tracking and record management.
+* **Streamline patient registration and tracking:** Implement an efficient patient registration system that assigns unique identification numbers, facilitating seamless patient tracking and record management.
 * **Immediate response on searching data:** The end user can search for the patient records easily by only input some criteria such as the patient ID or the patient name instead of search the patient record from a hundred or thousands of patient record from the cabinet. The system will immediately respond to the user with the patient information base on the criteria and it definitely can save up a lot of time and work on searching.
 * **Establish a centralized electronic health record system:** Create a centralized electronic health records system that enables doctors to access and update patient medical histories, including comments, allergies, and details of previous operations, promoting informed treatment decisions and improved patient outcomes.
 * **Automate prescription management:** Implement an electronic prescription management system that allows doctors to seamlessly prescribe medications and send them directly to pharmacists, reducing delays and enhancing medication safety.
